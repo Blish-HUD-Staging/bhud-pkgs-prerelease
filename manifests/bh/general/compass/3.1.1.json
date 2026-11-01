@@ -1,0 +1,18 @@
+{
+  "manifest_version": "1",
+  "name": "Compass",
+  "namespace": "bh.general.compass",
+  "version": "3.1.1",
+  "contributors": [
+    {
+      "name": "Staging"
+    }
+  ],
+  "description": "Displays a basic indicator at your feet that shows you North, East, South, and West.",
+  "dependencies": {
+    "bh.blishhud": "\u003e=0.8.0"
+  },
+  "url": "https://github.com/blish-hud/Blish-HUD",
+  "location": "https://github.com/Blish-HUD-Staging/bhud-modules/releases/download/bh.general.compass_v3.1.1/bh.general.compass-3.1.1.bhm",
+  "hash": "7E1BAB4B17A78E7B02B7AC1C1D19431313E2A69D01C6FB77CD6D1B8551F1873F"
+}
